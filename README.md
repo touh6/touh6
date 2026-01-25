@@ -1,8 +1,11 @@
-<h1 align="left">hi, i'm touh :) </h1>
-<h3 align="left"> a kid who adores technology</h3>
+<h1 align="left">hi, i'm touh :)</h1>
+
+<blockquote>
+  <em>just a kid who adores technology</em>
+</blockquote>
 
 ## about me,
-fragments. 
+### fragments. 
 
 i believe we're all made up of fragments; fragments of people we used to know, places we've left behind and all the media we've consumed. every experience leaves an echo, it forms an ever evolving mosaic of who we are. and within that mosaic lives an insatiable hunger to understand the world, not only as it is, but as it could be. 
 
@@ -10,9 +13,10 @@ i'm deeply fascinated by the relationship between memory, identity and systems, 
 
 it has made me relentlessly inquisitive. from neuroscience and tech to literature and philosophy, i absolutely love going down rabbit holes, constantly questioning "why" something is the way it is.
 
-i absolutely love creating. i experiment, i fail, i debug and repeat the process over again. to me, everything is interconnected (or so i believe). i think good technology is thought of beyond a single domain. and patterns? they repeat everywhere; in code, in people and in history. 
+i absolutely love creating. i experiment, i fail, i debug and repeat the process over again. to me, everything is interconnected (or so i believe). i think good technology is thought of beyond a single domain. there's always patterns, and patterns? they repeat everywhere; whether it be code, people or history. 
 
 ---
+
 ## skills:
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,robloxstudio,notion,netlify,linux,figma,gamemakerstudio,pr,ps,ai,au,ae,xd" />
@@ -22,52 +26,32 @@ i absolutely love creating. i experiment, i fail, i debug and repeat the process
 ## featured projects:
 
 <table>
-  <tr>
-    <td width="33%">
-      <h3 align="center">Project One</h3>
-      <p align="center">
-        <img src="PROJECT_IMAGE_1.png" alt="Project One" />
-      </p>
-      <p align="center">
-        Short description of what it does and why it matters.
-      </p>
-      <p align="center">
-        <a href="PROJECT_LINK_1">Live</a> • <a href="REPO_LINK_1">Repo</a>
-      </p>
-    </td>
+<tr>
+<td width="33%" align="center">
 
-    <td width="33%">
-      <h3 align="center">Project Two</h3>
-      <p align="center">
-        <img src="PROJECT_IMAGE_2.png" alt="Project Two" />
-      </p>
-      <p align="center">
-        What problem you solved or explored here.
-      </p>
-      <p align="center">
-        <a href="PROJECT_LINK_2">Live</a> • <a href="REPO_LINK_2">Repo</a>
-      </p>
-    </td>
+<h3>the poet's room</h3>
+<img src="https://github.com/touh6/touh6/blob/main/p1.1.png?raw=true" alt="the poet's room" />
+<p>portfolio website for creatives</p>
+<a href="https://thepoetsroom.framer.website/">website</a> & <a href="https://github.com/touh6/The-Poet-s-Room">repo</a>
 
-    <td width="33%">
-      <h3 align="center">Project Three</h3>
-      <p align="center">
-        <img src="PROJECT_IMAGE_3.png" alt="Project Three" />
-      </p>
-      <p align="center">
-        Why this project represents your growth.
-      </p>
-      <p align="center">
-        <a href="PROJECT_LINK_3">Live</a> • <a href="REPO_LINK_3">Repo</a>
-      </p>
-    </td>
-  </tr>
+</td>
+
+<td width="33%" align="center">
+
+<h3>edu sign</h3>
+<img src="https://github.com/touh6/touh6/blob/main/p2.1.png?raw=true" alt="edu sign" />
+<p>accesibility app converting real time speech into sign language and text</p>
+<a href="https://devpost.com/software/edu-sign#/">devpost</a> & <a href="https://github.com/touh6/Edu-Sign-MVP-">repo</a>
+
+</td>
+</tr>
 </table>
 
 ---
-**contact:**  
-- devpost → https://devpost.com/touheedaahamad?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav#/
-- linkedIn → https://www.linkedin.com/in/touheeda-sadaf-ahamad/  
-- email → touheedaahamad@gmail.com
+
+## contact:
+- devpost → https://devpost.com/touheedaahamad  
+- linkedin → https://www.linkedin.com/in/touheeda-sadaf-ahamad/  
+- email → touheedaahamad@gmail.com  
 - instagram → https://www.instagram.com/touheedaahamad/  
-- youtube → www.youtube.com/@adtshq
+- youtube → https://www.youtube.com/@adtshq
