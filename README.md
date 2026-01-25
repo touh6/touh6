@@ -1,7 +1,7 @@
 <h1 align="left">hi, i'm touh :)</h1>
 
 <blockquote>
-  <em>just a kid who adores technology</em>
+  <em>a kid who loves creatingy</em>
 </blockquote>
 
 ## about me,
