@@ -1,7 +1,7 @@
 <h1 align="left">hi, i'm touh :)</h1>
 
 <blockquote>
-  <em>a kid who loves creatingy</em>
+  <em>just a kid who loves creating</em>
 </blockquote>
 
 ## about me,
@@ -46,6 +46,12 @@ i absolutely love creating. i experiment, i fail, i debug and repeat the process
 </td>
 </tr>
 </table>
+
+---
+
+## stats:
+
+![touh's github stats](https://github-readme-stats.vercel.app/api?username=touh6&show_icons=true&theme=tokyonight)
 
 ---
 
