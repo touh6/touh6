@@ -53,5 +53,4 @@ i absolutely love creating. i experiment, i fail, i debug and repeat the process
 - devpost → https://devpost.com/touheedaahamad  
 - linkedin → https://www.linkedin.com/in/touheeda-sadaf-ahamad/  
 - email → touheedaahamad@gmail.com  
-- instagram → https://www.instagram.com/touheedaahamad/  
 - youtube → https://www.youtube.com/@adtshq
