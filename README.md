@@ -49,12 +49,6 @@ i absolutely love creating. i experiment, i fail, i debug and repeat the process
 
 ---
 
-## stats:
-
-![touh's github stats](https://github-readme-stats.vercel.app/api?username=touh6&show_icons=true&theme=tokyonight)
-
----
-
 ## contact:
 - devpost → https://devpost.com/touheedaahamad  
 - linkedin → https://www.linkedin.com/in/touheeda-sadaf-ahamad/  
